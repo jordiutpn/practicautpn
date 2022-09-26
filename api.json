@@ -1,0 +1,66 @@
+[
+    {
+        "precio":15,
+        "id":1,
+        "title":"Gusanitos",
+        "thumbnaiUrl":"https://i.postimg.cc/c4Tm6jsv/1.jpg"
+    },
+    {
+        "precio":10,
+        "id":2,
+        "title":"Gomitas",
+        "thumbnaiUrl":"https://i.postimg.cc/6pr7c0kL/2.png"
+    },  
+    {
+        "precio":20,
+        "id":3,
+        "title":"Coca Cola",
+        "thumbnaiUrl":"https://i.postimg.cc/wB72WjsR/3.png"
+    },
+    {
+        "precio":110,
+        "id":4,
+        "title":"Croqueta_gato",
+        "thumbnaiUrl":"https://i.postimg.cc/yNtP2CFQ/4.jpg"
+    },
+    {
+        "precio":60,
+        "id":5,
+        "title":"Almohada",
+        "thumbnaiUrl":"https://i.postimg.cc/vBnzs2hQ/5.jpg"
+    },
+    {
+        "precio":35,
+        "id":6,
+        "title":"Cepillo_ropa",
+        "thumbnaiUrl":"https://i.postimg.cc/wMdkT54D/6.jpg"
+    },
+    {
+        "precio":115,
+        "id":7,
+        "title":"croqueta_perro",
+        "thumbnaiUrl":"https://i.postimg.cc/Y0fz44TZ/7.jpg"
+    },
+    {
+        "precio":15,
+        "id":8,
+        "title":"maruchan",
+        "thumbnaiUrl":"https://i.postimg.cc/9XGpgSzb/8.jpg"
+    },
+    {
+        "precio":20,
+        "id":9,
+        "title":"Doritos",
+        "thumbnaiUrl":"https://i.postimg.cc/BQ4CrgK0/9.jpg"
+    },
+    {
+        "precio":12,
+        "id":10,
+        "title":"Nachos",
+        "thumbnaiUrl":"https://i.postimg.cc/NfDxBH6r/10.jpg"
+        
+    }
+    
+    
+
+]
